@@ -1,7 +1,7 @@
 R scripts can be rendered\!
 ================
 AC
-April 1, 2014
+May 23, 2020
 
 Here’s some prose in a very special comment. Let’s summarize the
 built-in dataset `VADeaths`.
