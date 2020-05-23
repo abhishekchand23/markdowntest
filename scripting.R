@@ -1,7 +1,7 @@
 #' ---
 #' title: "R scripts can be rendered!"
 #' author: "AC"
-#' date: "April 1, 2014"
+#' date: "  May 23, 2020"
 #' output: github_document
 #' ---
 #'
